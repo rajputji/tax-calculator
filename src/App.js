@@ -81,7 +81,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Tax Calculator - New Regime 2025</h1>
+      <h1>Income Tax Calculator - Under New Tax Regime (Updated: 1 Feb 2025)</h1>
       <input
         type="number"
         placeholder="Enter Total Income"
